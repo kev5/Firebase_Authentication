@@ -1,2 +1,2 @@
-# Firebase_Authentication
+# Firebase Authentication
 User registration and login using firebase services.
