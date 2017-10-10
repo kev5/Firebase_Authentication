@@ -2,10 +2,10 @@
 User registration and login using firebase services.
 
 * User Registration/Sign Up-
-https://github.com/kev5/Firebase_Authentication/blob/master/User%20Registration.PNG
+![](images/UserRegistration.PNG)
 
 * User Login-
-https://github.com/kev5/Firebase_Authentication/blob/master/User%20Login.PNG
+![](images/UserLogin.PNG)
 
 * User Profile-
-https://github.com/kev5/Firebase_Authentication/blob/master/User%20Profile.PNG
+![](images/UserProfile.PNG)
