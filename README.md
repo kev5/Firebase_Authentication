@@ -29,5 +29,7 @@ The tests with the description and the results are in the following excel sheet-
 
 ## AWS Automated Test
 
+The Application was tested using AWS Device Farm and the results were as follows-
 
+![](AWS Unit Test Devices List.png)
 
