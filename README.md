@@ -21,3 +21,8 @@ User registration and login using firebase services.
 
 ![](images/Authentication.PNG)
 
+## Manual Testing of the App
+
+The tests with the description and the results are in the following excel sheet-
+
+![]()
