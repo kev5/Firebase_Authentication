@@ -25,7 +25,7 @@ User registration and login using firebase services.
 
 The tests with the description and the results are in the following excel sheet-
 
-![Test Cases Sheet](https://github.com/kev5/Firebase_Authentication/blob/master/App%20Test%20Case%20Sheet.xlsx)
+![](https://github.com/kev5/Firebase_Authentication/blob/master/App%20Test%20Case%20Sheet.xlsx)
 
 ## AWS Automated Test
 
